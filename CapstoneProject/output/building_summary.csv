@@ -1,0 +1,11 @@
+building,mean_kwh,min_kwh,max_kwh,total_kwh
+building1,11.0,8,14,55
+building10,16.8,14,19,84
+building2,8.0,6,10,40
+building3,13.4,10,17,67
+building4,4.6,3,6,23
+building5,21.0,18,24,105
+building6,10.8,9,13,54
+building7,26.6,20,32,133
+building8,13.2,11,16,66
+building9,6.4,5,8,32
